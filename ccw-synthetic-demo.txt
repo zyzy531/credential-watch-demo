@@ -1,0 +1,14 @@
+# CCW_SYNTHETIC_SAMPLE_V1
+# Artificial detection fixtures only. Not issued by any service. Not valid credentials.
+# Experiment: 3b83fa9c-496a-465a-b736-55573ded1669
+# Prepared: 2026-10-15T12:50:55.225Z (NOT publication time)
+aws_access_key_id=AKIACC920EC104FFF331
+alibaba_access_key_id=LTAIcc920ec104fff3311d8a
+tencent_secret_id=AKIDcc920ec104fff3311d8a6f782443df77
+github_token=ghp_SYNTHETICcc920ec104fff3311d8a6f78244
+client_secret=ccwSyntheticcc920ec104ff
+database_url=postgres://demo_user:ccwSyntheticcc920ec104ff@invalid.example/demo
+-----BEGIN OPENSSH PRIVATE KEY-----
+CCW_SYNTHETIC_NOT_A_REAL_PRIVATE_KEY_cc920ec104fff331
+-----END OPENSSH PRIVATE KEY-----
+password=your_password_here
